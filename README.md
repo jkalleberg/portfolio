@@ -18,15 +18,15 @@ April 16, 2024 – Podium Presentation, AGBT-Ag, Pheonix, AZ | [Canva Link](http
 ### DeepVariant TrioTrain: developing a transfer learning protocol using non-human genomes
 October 5, 2023 – CAFNR Research Week, University of Missouri, Columbia, MO | [Canva Link](https://www.canva.com/design/DAFwIvFHPCg/NZQUC_gZl8_4tJ1aEi12eg/view?utm_content=DAFwIvFHPCg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5cd5787d8f)
 
-August 17, 2023 – Animal Sciences Grad Forum, University of Missouri, Columbia, MO
+August 17, 2023 – Animal Sciences Grad Forum, University of Missouri, Columbia, MO | [Link TBD]()
 
-Dec. 1, 2022 – Institute for Data Science and Informatics Research Symposium, University of Missouri, Columbia, MO
+Dec. 1, 2022 – Institute for Data Science and Informatics Research Symposium, University of Missouri, Columbia, MO | [Link TBD]()
 
-August 19, 2022 – Animal Sciences Grad Forum, University of Missouri, Columbia, MO
+August 19, 2022 – Animal Sciences Grad Forum, University of Missouri, Columbia, MO | [Link TBD]()
 
-April 7, 2022 – Institute for Data Science and Informatics Research Symposium, University of Missouri, Columbia, MO
+April 7, 2022 – Institute for Data Science and Informatics Research Symposium, University of Missouri, Columbia, MO | [Link TBD]()
 
-Dec. 10, 2020 – Institute for Data Science and Informatics Research Symposium, University of Missouri, Columbia, MO
+Dec. 10, 2020 – Institute for Data Science and Informatics Research Symposium, University of Missouri, Columbia, MO | [Link TBD]()
 
 
 ## Posters:
